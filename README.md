@@ -55,4 +55,4 @@ Basic Look and Feel: The app's design is pretty basic. A real app would need a m
 
 Simple Error Handling: The app's error handling is very basic. A real app would need to handle errors more gracefully and provide better feedback to the user.
 
-No Internet Check: The app doesn't check if you have an internet connection.
+
