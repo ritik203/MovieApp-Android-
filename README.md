@@ -2,6 +2,7 @@
 Movie App - My Android Development Journey
 
 Hey there! 👋
+
 This project is a simple Android app that displays a list of movies and their details. I built it primarily to get hands-on experience with Android development, learn Kotlin, and explore some cool Android libraries.  Think of it as my learning diary in app form!
 
 What the App Does
